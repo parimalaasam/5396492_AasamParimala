@@ -13,3 +13,4 @@ git push origin branch_name
 git merge
 git merge --abrot
 git pull
+git pull origin branch_name
