@@ -1,4 +1,4 @@
-#This are git commands i used
+This are git commands i used
 git clone
 git status
 git add . 
